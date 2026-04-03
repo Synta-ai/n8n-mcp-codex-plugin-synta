@@ -1,0 +1,26 @@
+{
+  "name": "synta-n8n-mcp-codex",
+  "version": "1.0.0",
+  "description": "Build and edit n8n workflows from Codex via Synta MCP",
+  "author": {
+    "name": "Synta",
+    "url": "https://synta.io/"
+  },
+  "homepage": "https://synta.io/mcp",
+  "repository": "https://github.com/Synta-ai/n8n-mcp-rules",
+  "keywords": [
+    "mcp",
+    "codex",
+    "n8n",
+    "synta"
+  ],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Synta MCP",
+    "shortDescription": "Build n8n workflows from Codex via Synta MCP",
+    "longDescription": "A Codex plugin that connects to Synta MCP so you can create, edit, validate, and self-heal n8n workflows from Codex.",
+    "category": "Productivity",
+    "websiteURL": "https://synta.io/"
+  },
+  "skills": "./"
+}
