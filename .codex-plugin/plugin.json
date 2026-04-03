@@ -1,5 +1,5 @@
 {
-  "name": "synta-n8n-mcp-codex",
+  "name": "n8n-mcp-synta-codex",
   "version": "1.0.0",
   "description": "Build and edit n8n workflows from Codex via Synta MCP",
   "author": {
