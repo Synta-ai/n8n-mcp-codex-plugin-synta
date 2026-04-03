@@ -29,7 +29,7 @@ Recommended when you want this plugin available across projects on your machine.
 mkdir -p ~/.agents/plugins ~/.codex/plugins
 ```
 
-2. Copy this plugin into your local plugins directory so the folder name matches the manifest name:
+2. Copy this plugin into your local plugins directory:
 
 ```bash
 cp -R /path/to/codex/plugin/n8n-mcp-codex-plugin-synta ~/.codex/plugins/n8n-mcp-codex-plugin-synta
@@ -105,7 +105,7 @@ Example prompts:
 To disable the plugin without uninstalling it, set it to disabled in `~/.codex/config.toml` and restart Codex:
 
 ```toml
-[plugins."n8n-mcp-codex-plugin-synta"]
+[plugins."n8n-mcp-synta-codex"]
 enabled = false
 ```
 
