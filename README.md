@@ -1,6 +1,6 @@
 # Synta MCP Codex Plugin
 
-This plugin bundles the Synta MCP for Codex, which enables Codex to build, validate, & debug n8n workflows with deep knowledge of the platform's complete node library, allowing smart workflow-creation real-time error checking & expert troubleshooting assistance
+This plugin bundles the Synta MCP for Codex, which enables Codex to build, validate, & debug n8n workflows with deep knowledge of the platform's complete node library, allowing smart workflow-creation real-time error checking & expert troubleshooting assistance.
 
 ## What This Plugin Includes
 
